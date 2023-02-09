@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn_RESTFULAPI", "DoAn_RESTFULAPI\DoAn_RESTFULAPI.csproj", "{599A3B36-E511-4CC5-A58C-5169FB661E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{FD3EDAA3-4B55-48EE-A9F3-4F5807C43061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599A3B36-E511-4CC5-A58C-5169FB661E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599A3B36-E511-4CC5-A58C-5169FB661E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599A3B36-E511-4CC5-A58C-5169FB661E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599A3B36-E511-4CC5-A58C-5169FB661E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3EDAA3-4B55-48EE-A9F3-4F5807C43061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3EDAA3-4B55-48EE-A9F3-4F5807C43061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3EDAA3-4B55-48EE-A9F3-4F5807C43061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3EDAA3-4B55-48EE-A9F3-4F5807C43061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E1C143E-4705-443D-AD88-75BCCDEECE3F}
+	EndGlobalSection
+EndGlobal
